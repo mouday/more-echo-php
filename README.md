@@ -135,6 +135,6 @@ git tag 1.0.0
 git push --tag 
 ```
 
->参考
-[php composer Packagist 创建第一个自己的包](https://blog.csdn.net/Kai_Wai/article/details/120473898)
-[101- composer \[packagist\]包制作（入门篇）](https://www.jianshu.com/p/1eeaad7ec31a/)
+> 参考
+> - [php composer Packagist 创建第一个自己的包](https://blog.csdn.net/Kai_Wai/article/details/120473898)
+> - [101- composer \[packagist\]包制作（入门篇）](https://www.jianshu.com/p/1eeaad7ec31a/)
