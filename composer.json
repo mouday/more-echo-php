@@ -2,6 +2,7 @@
     "name": "mouday/more-echo",
     "description": "a demo for Composer",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Mouday\\MoreEcho\\": "src/"
