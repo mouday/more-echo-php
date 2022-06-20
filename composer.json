@@ -1,0 +1,17 @@
+{
+    "name": "mouday/more-echo",
+    "description": "a demo for Composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mouday\\MoreEcho\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pengshiyu",
+            "email": "1940607002@qq.com"
+        }
+    ],
+    "require": {}
+}
